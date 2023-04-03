@@ -1,0 +1,6 @@
+1) Create generator
+2) Brute force
+3) Branch and bound
+4) Greedy algorithm
+5) Algorithm ant colony
+6) Tester
